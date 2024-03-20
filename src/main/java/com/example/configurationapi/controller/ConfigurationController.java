@@ -37,7 +37,7 @@ public class ConfigurationController {
 
 
     /**
-     * Retrives a configuration by its ID
+     * Retrieves a configuration by its ID
      *
      * @param id The ID of the configuration to retrieve
      * @return The requested configuration if found, with HTTP status 200

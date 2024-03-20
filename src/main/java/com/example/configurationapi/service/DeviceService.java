@@ -15,7 +15,7 @@ public class DeviceService {
     /**
      * Finds an existing device by its identifier ao creates a new one if does not exist.
      *
-     * @param deviceId The unique identifie od the device
+     * @param deviceId The unique identifier of the device
      * @return The found or newly created DeviceModel object
      */
     public DeviceModel findOrCreateDevice(String deviceId) {
